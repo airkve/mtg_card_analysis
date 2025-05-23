@@ -56,4 +56,3 @@ python analisis_mtg.py
 ## Autor
 
 **Richard Jiménez**  
-Especialista en IT
